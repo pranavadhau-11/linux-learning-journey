@@ -1,0 +1,55 @@
+Grep and Egrep Practice
+
+Introduction
+
+This project demonstrates the basic usage of "grep" and "egrep" commands in Linux. These commands are used to search and filter text from files.
+
+Sample Data
+
+File: "GREP AND EGREP"
+
+Rahul 85
+Amit 72
+Priya 90
+Rohit 65
+Pooja 88
+Akash 55
+
+Grep Commands
+
+Search for a specific name:
+
+grep Rahul students.txt
+
+Case-insensitive search:
+
+grep -i rahul students.txt
+
+Search for a specific mark:
+
+grep 90 students.txt
+
+Egrep Commands
+
+Find names starting with R:
+
+egrep "^R" students.txt
+
+Find names starting with A or P:
+
+egrep "^(A|P)" students.txt
+
+Find students with marks between 80 and 99:
+
+egrep "8[0-9]|9[0-9]" students.txt
+
+Learning Outcome
+
+- Understand text searching in Linux.
+- Learn case-sensitive and case-insensitive searches.
+- Use regular expressions with egrep.
+- Filter data efficiently from text files.
+
+Author
+
+Pranav Adhau
