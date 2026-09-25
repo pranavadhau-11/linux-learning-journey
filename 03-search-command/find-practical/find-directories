@@ -1,0 +1,6 @@
+FIND DIRECTORIES
+
+COMMAND : find. -type d  
+
+PURPOSE : display all directories
+

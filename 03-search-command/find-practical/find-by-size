@@ -1,0 +1,8 @@
+FIND BY SIZE 
+
+COMMAND : find . -size.txt
+
+
+PURPOSE : find files larger than 10 mb
+
+

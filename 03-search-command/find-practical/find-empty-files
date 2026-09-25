@@ -1,0 +1,8 @@
+FIND EMPTYFILES
+
+COMMAND : find . -empty -type f
+
+PURPOSE : find empty files .
+
+
+

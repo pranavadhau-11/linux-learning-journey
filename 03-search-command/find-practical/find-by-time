@@ -1,0 +1,7 @@
+FIND BY TIME 
+
+COMMAND: find . -mtime-7
+
+
+PURPOSE : find files modified in the last 7 days 
+
