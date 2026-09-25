@@ -1,0 +1,9 @@
+FIND FILE BY NAME 
+
+COMMAND : find. -name "text.txt"
+
+
+PURPOSE : searches for a file named text.txt in the current directories and subdirectories .
+
+
+
