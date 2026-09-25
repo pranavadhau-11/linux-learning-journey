@@ -1,7 +1,0 @@
-FIND TEXT FILE 
-
-COMMAND: find . -name "*.txt"
-
-
-PURPOSE : find all text files.
-
